@@ -1,104 +1,123 @@
-<h1 align="center">👋 Hey there</h1>
+<h1 align="center">Hi There 👋, I'm Venkatachala V</h1>
 
-<h2 align="center">It's Venkatachala</h2>
-
-<p align="center">
-🚀 Developer || 🤖 AI Enthusiast || 💻 Computer Science Student || 🧠 Problem Solver
-</p>
+<h3 align="center">💻 Aspiring Software Developer | 🤖 AI Enthusiast | 🚀 Problem Solver</h3>
 
 <p align="center">
-CSE MSRIT '27, Bangalore, India
+CSE MSRIT '27 • Bengaluru, India
 </p>
 
-<hr>
+<!-- CODING PROFILES TOP -->
 
-<h2>🌱 About Me</h2>
-
-<ul>
-<li>🎓 Computer Science student passionate about building real-world solutions</li>
-<li>🤖 Interested in Artificial Intelligence, Machine Learning & GenAI</li>
-<li>📍 Currently working on Indoor Navigation using Wi-Fi Fingerprinting</li>
-<li>🔐 Building Secure Systems & AI-based applications</li>
-<li>⚡ Always curious to learn new technologies</li>
-</ul>
-
-<hr>
-
-<h2>💬 Ask Me About</h2>
-
-<p>
-AI/ML • GenAI • Java • Python • Algorithms • Android Development • System Design • Networking • Indoor Navigation Systems
-</p>
-
-<hr>
-
-<h2>📫 How to Reach Me</h2>
+<h2 align="center">🏆 Coding Profiles</h2>
 
 <p align="center">
-📧 your_email@gmail.com
-</p>
-
-<hr>
-
-<h2>🔗 Connect With Me</h2>
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/venkatachala-v-41532029a/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
 
 <a href="https://leetcode.com/u/Venkatachala_v/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="55"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/venkatachalun8z?from=explore">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="55"/>
 </a>
+
+<a href="https://www.hackerrank.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="55"/>
+</a>
+
 </p>
 
-<hr>
+---
 
-<h2>💻 Technologies & Languages</h2>
+## 👨‍💻 About Me
+
+🎓 Third-year Computer Science student at M. S. Ramaiah Institute of Technology  
+💡 Passionate about building impactful software solutions  
+☕ Specializing in Java, DSA, and modern technologies  
+🤖 Interested in AI, Machine Learning & GenAI  
+📍 Working on Indoor Navigation using Wi-Fi Fingerprinting  
+🔐 Building secure systems & intelligent applications  
+
+---
+
+## 🚀 Skills
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
+</p>
+
+### ⚙️ Technologies & Tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
+</p>
+
+### 🤖 AI / Data
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
+</p>
+
+---
+
+## 🧠 Projects
+
+🏏 **Crichub Website** — Interactive cricket fan website for ICC World Cup 2023  
+
+🏥 **Doctor Appointment Booking App** — Connects doctors & patients for quick scheduling  
+
+📰 **Fake News Detection System** — ML model using NLP to detect fake news  
+
+---
+
+## 🎓 Education
+
+🎓 BE in Computer Science — MSRIT (2023–2027) • CGPA: 9.67  
+📘 PUC — Mandavya Excellence PU College • 97.33%  
+📗 SSLC — Poorna Prajna Convent • 97.12%  
+
+---
+
+## 🏆 Certificates
+
+📜 Deloitte Australia Technology Job Simulation — Forage  
+📜 Java Bootcamp — LetsUpgrade  
+
+---
+
+## 📫 Contact Me
+
+📧 venkatachalavenku029@gmail.com  
+📍 Bengaluru, Karnataka, India  
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</a>
 
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+<a href="https://www.linkedin.com/in/venkatachala-v-41532029a/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+</a>
 
 </p>
 
-<hr>
-
-<h2>🚀 Current Focus</h2>
-
-<ul>
-<li>📍 Indoor Navigation System (Wi-Fi Fingerprinting)</li>
-<li>🤖 AI Projects & GenAI Applications</li>
-<li>🔐 Secure Communication Systems</li>
-<li>📊 Data Structures & Algorithms</li>
-</ul>
-
-<hr>
+---
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
