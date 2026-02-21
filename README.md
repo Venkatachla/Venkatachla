@@ -3,11 +3,11 @@
 <h2 align="center">It's Venkatachala</h2>
 
 <p align="center">
-🚀 Developer || 🤖 AI Enthusiast || 📍 Indoor Navigation Researcher || 💻 Computer Science Student || 🧠 Problem Solver
+🚀 Developer || 🤖 AI Enthusiast || 💻 Computer Science Student || 🧠 Problem Solver
 </p>
 
 <p align="center">
-CSE MSRIT '26, Bangalore, India
+CSE MSRIT '27, Bangalore, India
 </p>
 
 <hr>
@@ -34,34 +34,57 @@ AI/ML • GenAI • Java • Python • Algorithms • Android Development • S
 
 <h2>📫 How to Reach Me</h2>
 
-<p>
-📧 Email: your_email@gmail.com
+<p align="center">
+📧 your_email@gmail.com
 </p>
 
 <hr>
 
 <h2>🔗 Connect With Me</h2>
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> |
-<a href="https://www.linkedin.com/in/venkatachala-v-41532029a/">LinkedIn</a> |
-<a href="https://leetcode.com/u/Venkatachala_v/">LeetCode</a> |
-<a href="[https://www.geeksforgeeks.org/user/YOUR_PROFILE](https://www.geeksforgeeks.org/profile/venkatachalun8z?from=explore)">GeeksForGeeks</a> |
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</a>
 
+<a href="https://www.linkedin.com/in/venkatachala-v-41532029a/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/Venkatachala_v/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/venkatachalun8z?from=explore">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
+</a>
 </p>
 
 <hr>
 
 <h2>💻 Technologies & Languages</h2>
 
-<p>
-Java • Python • C • JavaScript • SQL <br><br>
+<p align="center">
 
-Android • JavaFX • Swing • Machine Learning  <br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 
-Git • GitHub • Linux • Firebase • MySQL • MongoDB <br><br>
+<br><br>
 
- Pandas • Scikit-learn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+
 </p>
 
 <hr>
