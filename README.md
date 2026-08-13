@@ -41,7 +41,7 @@
   </a>
 </p>
 
-> 🏅 **LeetCode Contest Rating:** 1770 | **DSA Problems Solved:** 500+ (LeetCode), 75+ (GFG)
+> 🏅 **LeetCode Contest Rating:** 1848 | **DSA Problems Solved:** 500+ (LeetCode), 75+ (GFG)
 
 <!-- Dynamically updating LeetCode Stats -->
 <p align="center">
@@ -111,8 +111,8 @@
 ## 🎓 Education & Certifications
 
 ### Education
-- **BE in Computer Science** — MSRIT (2023–2027) • *CGPA: 9.73/10*
-- **PUC** — Mandavya Excellence PU College • *97.33%*
+- **BE in Computer Science** — MSRIT (2023–2027) • *CGPA: 9.67/10*
+- **PUC** — Mandavya Excellence PU College • *97.66%*
 - **SSLC** — Poorna Prajna Convent • *97.12%*
 
 ### Certifications
